@@ -3,3 +3,17 @@ padding:0;
 margin:0;
 box-sizing:border-box;
 }
+
+html{
+font-size: 62.5%;
+}
+
+body{
+    color: skyblue;
+}
+
+.header{
+min-width: 100vw;
+min-height: 10vh;
+color: rgb(7, 7, 15);
+}
